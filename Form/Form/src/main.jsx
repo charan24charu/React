@@ -1,9 +1,10 @@
 
 import { createRoot } from 'react-dom/client'
+import Nav from './Nav.jsx'
 
-import App from './App.jsx'
+import  './App.css'
 
 createRoot(document.getElementById('root')).render(
-  <App></App>
+  <Nav></Nav>
 
 )

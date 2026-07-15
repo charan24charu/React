@@ -1,28 +1,5 @@
 {
-  "users": [
-    {
-      "name": "Charan G",
-      "email": "charan242005@gmail.com",
-      "id": "2DVZDtirkMU"
-    },
-    {
-      "name": "Charan G",
-      "email": "charan242005@gmail.com",
-      "id": "bFSX5JMoKnA"
-    },
-    {
-      "name": "Charan G",
-      "email": "charan242005@gmail.com",
-      "id": "NBPYlh-VsZA"
-    },
-    {
-      "name": "meghana",
-      "email": "meghana@2003gmail.com",
-      "id": "8yW0rj8mVtM"
-    },
-    {
-      "name": "chandu",
-      "email": "chandu14@gmail.com"
-    }
+  "users":[
+    
   ]
 }
