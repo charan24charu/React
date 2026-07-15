@@ -1,2 +1,2 @@
 # React
-Projects on Recat
+Projects on React
