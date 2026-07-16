@@ -1,10 +1,11 @@
 
 import { createRoot } from 'react-dom/client'
-import Nav from './Nav.jsx'
+
 
 import  './App.css'
+import Home from './Home'
 
 createRoot(document.getElementById('root')).render(
-  <Nav></Nav>
-
+ 
+<Home></Home>
 )
