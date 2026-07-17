@@ -10,5 +10,14 @@
 #home{
     align-items: center;
     display: flex;
+    justify-content: flex-start;
+
+}
+#home1{
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+    align-items: center;
+    display: flex;
     justify-content: center;
 }
